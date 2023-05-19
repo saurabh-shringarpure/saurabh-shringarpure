@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saurabh-shringarpure
-- 👀 I’m interested in research in quantum optics
-- 🌱 I’m currently learning Group Theoretic methods for physicists
-- 💞️ I’m looking to collaborate on a startup idea in the low wage job market space
+- 👀 I’m interested in research in quantum optics and quantum information
+- 🌱 I’m currently about Gottesman-Kitaev-Preskil and rotation symmetric bosonic quantum error correction
 - 📫 How to reach me https://www.linkedin.com/in/saurabhudayshringarpure/
 
 <!---
